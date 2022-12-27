@@ -5,4 +5,4 @@ https://huggingface.co/datasets/azminetoushikwasi/cristiano-ronaldo-all-club-goa
 https://www.kaggle.com/code/azminetoushikwasi/cristiano-ronaldo-goals-eda-analysis
 
 ## Plots
-![](./newplot.png)
+![](./plot.png)
